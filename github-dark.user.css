@@ -5522,6 +5522,10 @@
     background-color: #181818;
     border-color: #343434;
   }
+  /* gist.github.com: "#fff" */
+  .subtasks-parent-pill-truncated {
+    background-color: #181818;
+  }
   /* gist.github.com: "color: #586069" */
   .marketing .pagehead p {
     color: #afafaf;
@@ -15137,6 +15141,10 @@
     background-color: #181818;
     border-color: #343434;
   }
+  /* github-mobile: "#fff" */
+  body[class="page-responsive"] .subtasks-parent-pill-truncated {
+    background-color: #181818;
+  }
   /* github-mobile: "color: #586069" */
   body[class="page-responsive"] .marketing .pagehead p {
     color: #afafaf;
@@ -23478,6 +23486,10 @@
   #subtasks.is-comment-editing {
     background-color: #181818;
     border-color: #343434;
+  }
+  /* github.com: "#fff" */
+  .subtasks-parent-pill-truncated {
+    background-color: #181818;
   }
   /* github.com: "color: #586069" */
   .marketing .pagehead p {
